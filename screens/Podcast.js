@@ -191,7 +191,6 @@ const styles = StyleSheet.create({
     container : {
         flex:1,
         backgroundColor:"#09121C",
-        marginTop:25,
     },
     podcastBG:{
         width:375,

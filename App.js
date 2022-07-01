@@ -20,7 +20,7 @@ export default function App() {
               <Stack.Screen style={styles.screen} name="BrowsePodcastScreen" component={BrowsePodcast} />
               <Stack.Screen style={styles.screen} name="PodcastScreen" component={Podcast} />
           </Stack.Navigator>
-          {/*<StatusBar style={"auto"} />*/}
+          {/*<StatusBar style={"light"} />*/}
       </NavigationContainer>
   );
 }
